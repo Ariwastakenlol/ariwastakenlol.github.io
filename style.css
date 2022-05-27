@@ -2,11 +2,14 @@
   margin: 0;
   padding: 0;
 }
+
 body{
 	background: #001525;
 }
 
 header{
+	color #000000;
+	margin: 0px 0px 0em 0em;
 	background: #9300FF;
 }
 
