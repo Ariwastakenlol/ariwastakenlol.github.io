@@ -1,0 +1,27 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body{
+	background: #001525;
+}
+
+header{
+	background: #9300FF;
+}
+
+.logo{
+	font-family: 'Ubuntu', sans-serif;
+	display: inline;
+}
+
+.navbar{
+	display: inline;
+	margin-left: 2em;
+}
+
+.navOpt:link, .navOpt:visited{
+	color: #000;
+	margin: 0.4em 0.4em 0.4em 0.4em;
+	text-decoration: none;
+}
